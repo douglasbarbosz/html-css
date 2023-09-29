@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(39, 37, 37);
+}
+
+h1 {
+    color: white;
+}
+
+h2 > a {
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+    font-size: 0.7em;
+}
+
+a > img {
+    background-color: rgba(255, 255, 255, 0.856);
+    padding: 0px;
+    margin: 0px;
+}
+
+#voltar > a > img {
+    background-color: transparent;
+}
